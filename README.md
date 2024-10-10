@@ -1,1 +1,2 @@
 # TO-DO-LIST
+This project is a simple **To-Do List** app using HTML, CSS, and JavaScript. Users can add tasks via an input field, which are dynamically displayed in a list with a delete button. Tasks can be removed individually by clicking the delete button. It includes input validation to prevent empty tasks. The project highlights DOM manipulation, event handling, and task management, making it ideal for beginners.
